@@ -32,6 +32,17 @@ Accuracy: ~91% mAP@0.5
 
 ---
 
+## 📁 Trained Model Weights - 
+
+entire folder for trained model weights coudnt be uploaded  due to github's size limitation therefor here is a link for drive -
+https://drive.google.com/drive/folders/11uecrdhciRfEUgEMVlG89qXQ8r9tDgR-?usp=sharing
+
+this includes -
+best weights that should be used if you are deploying.
+metrics and outputs.
+
+
+
 ## 🧪 How to Install and Run
 
 ### 1. Install dependencies:
