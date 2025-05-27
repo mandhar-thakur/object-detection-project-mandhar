@@ -3,8 +3,8 @@
 This project uses **YOLOv8** to detect hand gestures: **Rock, Paper, and Scissors** using a custom-trained model.  
 Built as part of an AI internship project, this repository contains:
 
-- Trained model weights (`best.pt`)
-- Streamlit interface (`app.py`)
+- Trained model weights (`best.pt`) uploaded in My_project_content.
+- Streamlit interface (`app.py`) uploaded in My_project_content
 - Project report
 - Instructions to run and test it
 
@@ -70,6 +70,9 @@ Dataset Link - https://universe.roboflow.com/ds/wxXW2AEbJF?key=m0tZdm2zi5
 ![image](https://github.com/user-attachments/assets/8843a6d8-ef38-41a8-a8b7-8ab20ba9f6c3)
 
 ![image](https://github.com/user-attachments/assets/84f5be27-d9ca-4303-af80-3c296c149bda)
+
+## Screentshots and metrics for evaluation - 
+Uploaded in screenshots and metrics folder.
 
 
 ## 📈 Future Scope
