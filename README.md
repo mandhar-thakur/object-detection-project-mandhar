@@ -38,8 +38,9 @@ Accuracy: ~91% mAP@0.5
 bash
 pip install -r requirements.txt
 
-### 2. Run the Streamlit App:
-streamlit run app.py
+### 2. Run the Python script
+
+### 3. Run the Streamlit App
 
 ## 📦 Dataset
 The dataset was not uploaded to GitHub due to size. You can automatically download it from Roboflow using the following code:
