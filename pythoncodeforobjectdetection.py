@@ -18,7 +18,7 @@ version = project.version(14)
 dataset = version.download("yolov8")
 
 from ultralytics import YOLO
-model = YOLO("/content/runs/detect/train2/weights/best.pt")  # Nano version
+model = YOLO("/content/runs/detect/train2/weights/best.pt")  # Nano version( use yolov8n.pt for initialization and to set a base once all specified epochs have run switch to best.pt to switch model to a custom trained dataset)
 results = model.predict(source="/content/rock-paper-scissors-14/test/images", save=True)
 
 model.train(data="/content/rock-paper-scissors-14/data.yaml", epochs=20, imgsz=640)
